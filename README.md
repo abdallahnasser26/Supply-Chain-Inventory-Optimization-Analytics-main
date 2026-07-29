@@ -291,6 +291,9 @@ Supply-Chain-Inventory-Analytics/
 ## Author
 
 name: Abdallah Nasser
+
 GitHub: https://github.com/abdallahnasser26 
+
 phone : 01123117882 
+
 linkedin : linkedin.com/in/abdallah-naser-75345a327
